@@ -1,0 +1,15 @@
+/workspaces/miPrimerRepo/proyecto1/probando/bin/Debug/net8.0/miPrimerRepo
+/workspaces/miPrimerRepo/proyecto1/probando/bin/Debug/net8.0/miPrimerRepo.deps.json
+/workspaces/miPrimerRepo/proyecto1/probando/bin/Debug/net8.0/miPrimerRepo.runtimeconfig.json
+/workspaces/miPrimerRepo/proyecto1/probando/bin/Debug/net8.0/miPrimerRepo.dll
+/workspaces/miPrimerRepo/proyecto1/probando/bin/Debug/net8.0/miPrimerRepo.pdb
+/workspaces/miPrimerRepo/proyecto1/probando/obj/Debug/net8.0/miPrimerRepo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/miPrimerRepo/proyecto1/probando/obj/Debug/net8.0/miPrimerRepo.AssemblyInfoInputs.cache
+/workspaces/miPrimerRepo/proyecto1/probando/obj/Debug/net8.0/miPrimerRepo.AssemblyInfo.cs
+/workspaces/miPrimerRepo/proyecto1/probando/obj/Debug/net8.0/miPrimerRepo.csproj.CoreCompileInputs.cache
+/workspaces/miPrimerRepo/proyecto1/probando/obj/Debug/net8.0/miPrimerRepo.sourcelink.json
+/workspaces/miPrimerRepo/proyecto1/probando/obj/Debug/net8.0/miPrimerRepo.dll
+/workspaces/miPrimerRepo/proyecto1/probando/obj/Debug/net8.0/refint/miPrimerRepo.dll
+/workspaces/miPrimerRepo/proyecto1/probando/obj/Debug/net8.0/miPrimerRepo.pdb
+/workspaces/miPrimerRepo/proyecto1/probando/obj/Debug/net8.0/miPrimerRepo.genruntimeconfig.cache
+/workspaces/miPrimerRepo/proyecto1/probando/obj/Debug/net8.0/ref/miPrimerRepo.dll
